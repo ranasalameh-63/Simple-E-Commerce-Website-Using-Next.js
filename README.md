@@ -1,9 +1,10 @@
 # Simple-E-Commerce-Website-Using-Next.js
 
 🛒 Simple E-Commerce Website using Next.js
-📌 Project Overview
 
-This project is a simple e-commerce website built using Next.js (App Router).
+📌 Task Overview
+
+This task is a simple e-commerce website built using Next.js (App Router).
 
 It includes a home page, product listing, product details, an about page, and a custom 404 page, with different data-fetching strategies (SSR, SSG, ISR).
 
